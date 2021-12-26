@@ -4,6 +4,8 @@
 
 This is the repository of the paper "[CharacterBERT: Reconciling ELMo and BERT for Word-LevelOpen-Vocabulary Representations From Characters][paper]" that is soon to appear at COLING 2020.
 
+It works with 2.11.0 transformers version.
+
 > 2021-02-25: Code for pre-training BERT and CharacterBERT is now available [here](https://github.com/helboukkouri/character-bert-pretraining)!
 
 ## Table of contents
